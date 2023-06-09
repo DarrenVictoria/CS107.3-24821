@@ -1,8 +1,0 @@
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\bin\Debug\Kilometer to Meters.exe.config
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\bin\Debug\Kilometer to Meters.exe
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\bin\Debug\Kilometer to Meters.pdb
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\obj\Debug\Kilometer to Meters.csproj.AssemblyReference.cache
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\obj\Debug\Kilometer to Meters.csproj.SuggestedBindingRedirects.cache
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\obj\Debug\Kilometer to Meters.csproj.CoreCompileInputs.cache
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\obj\Debug\Kilometer to Meters.exe
-D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometer to Meters\Kilometer to Meters\obj\Debug\Kilometer to Meters.pdb
